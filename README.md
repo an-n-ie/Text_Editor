@@ -8,13 +8,7 @@ A text editor that runs in the browser and will also function offline. The app w
 
 The following image shows the application's appearance and functionality:
 
-![Picture](./Assets/Weather-Dashboard.png)
-
-Website: 
-
-## Credits
-
-
+![JATE](./Assets/00-demo.gif)
 
 ## Contact
 
