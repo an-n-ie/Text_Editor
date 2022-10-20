@@ -6,9 +6,11 @@ A text editor that runs in the browser and will also function offline. The app w
 
 ## Usage
 
+App: https://text-editor-ah19.herokuapp.com/
+
 The following image shows the application's appearance and functionality:
 
-![JATE](./Assets/00-demo.gif)
+![JATE](./client/src/images/jate.png)
 
 ## Contact
 
